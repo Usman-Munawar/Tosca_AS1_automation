@@ -102,6 +102,8 @@ Currently completing the full AS1 exercise set before exam registration.
 - [ ] AS1 Certification Achieved
 
 ---
+Tricentis Tosca 2025.1 LTS — AS1 Training | Exercise 15 Full Execution Demo
+Link : https://youtu.be/w0apRPZiQcg
 
 ## 👤 About
 
