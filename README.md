@@ -16,7 +16,7 @@ AS1 training workspace and Demo Web Shop.
 - Tricentis Tosca 2025.1 LTS (On-Premises)
 - Demo Web Shop — demowebshop.tricentis.com
 - Tricentis Automation Extension (Chrome)
-- Windows 11
+- Windows 10
 - Git / GitHub
 
 ---
