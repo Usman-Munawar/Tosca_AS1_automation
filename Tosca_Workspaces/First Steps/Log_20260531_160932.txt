@@ -1,0 +1,54 @@
+[3] 4:09:32 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 4:09:32 PM: Log level: 4
+[3] 4:09:32 PM: Release: 25.1.0.3382
+[3] 4:09:32 PM: PimpUp started
+[3] 4:09:32 PM: Adding MetaInfo in SQLiteAdaptor
+ + Attr: [11:369] Skipped
+ + Attr: [207:370] CloudWorkspaceId
+
+[3] 4:09:32 PM: Execution Approval is disabled.
+[3] 4:09:32 PM: No service discovery configured.
+[3] 4:09:32 PM:  + AccessibilityTestingUI: AccessibilityTestingUI 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 25.1.0.3382 (3382)
+    + : SAPSolutionManagerIntegration 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + RemoteControl: RemoteControlAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + Reporting: ReportingAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + ReportingUI: ReportingUIAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + RequirementsManagementAddIn: RequirementsManagement 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 25.1.0.3382 (3382)
+[3] 4:09:32 PM:  + TestCaseDesign: TestCaseDesign 25.1.0.3382 (3382)
+[3] 4:09:32 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Ready'
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Ready'
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 4:09:38 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 4:09:38 PM: OpenWorkspace took 00:00:07.6600561 to finish
+[2] 4:09:38 PM: Common repository is not available
+[4] 4:09:43 PM:  ShowStatusInfo: 'Ready'
